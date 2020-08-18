@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a simple web project to practice using forEach loops within forEach loops. The page prints a full deck of cards to the screen using two arrays and two forEeach loops._
+_This is a simple web project to practice using forEach loops within forEach loops. The page prints a full deck of cards to the screen using two arrays and two forEach loops._
 
 ## Setup/Installation Requirements
 
@@ -18,9 +18,7 @@ To Extend This Project:
 * Open the cloned repo in a text editor of your choice.
 
 ## Known Bugs
-
-* No headings to describe what is occuring on the page.
-* No styling applied.
+This project is intended for JS practice project; as a result, there is no styling added to this page. Future iterations could add a design layout.
 
 ## Technologies Used
 
